@@ -1,0 +1,32 @@
+@media screen and (min-width :576px) and (max-width :767.98px){
+    .lg-p{
+        line-height: 1.5rem;
+    }
+    .header-cap h1{
+        font-size: 3rem;
+        line-height: 3.625rem;
+    }
+    .about-left ,.about-right{
+        margin-left: 1rem !important;
+    }
+    .about-left-bottom{
+        margin-top: 1rem;
+    }
+    .card{
+        width: 32rem !important;
+        margin-left: 1rem !important;
+        border-radius: 0px !important;
+    }
+    .card-img-top{
+        border-radius: 0px !important;
+    }
+.work-icon{
+    position: relative;
+    top: 15px;
+}
+
+.contact-right{
+    margin-top: 1.3rem !important;
+    }
+
+}

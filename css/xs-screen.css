@@ -1,0 +1,42 @@
+@media screen and (max-width :575.98px) {
+    body{
+    }
+    .lg-p{
+        line-height: 1.5rem;
+    }
+    .header-cap h1{
+        font-size: 3rem;
+        line-height: 3.625rem;
+    }
+    .about-left ,.about-right{
+        margin-left: 1rem !important;
+    }
+    .about-cap{
+        margin-top: 1rem;
+    } 
+    .counter-icon{
+        margin-bottom:1rem;
+      }
+
+.counter-txt p{
+    margin-top:-5px ;
+}
+ .card{
+    width: 28rem !important;
+    margin-left: 0.5rem !important;
+    border-radius: 0px !important;
+}
+.card-img-top{
+    border-radius: 0px !important;
+}
+.contact-box{
+    padding: 2rem;
+}
+.contact-left,.contact-right{
+    margin: 3rem 1rem !important;
+}
+.contact-right{
+margin-top: 0 !important;
+}
+
+}

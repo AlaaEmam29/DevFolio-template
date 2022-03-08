@@ -1,0 +1,50 @@
+@media screen and (min-width :768px) and (max-width :991.98px){
+    body{
+        overflow-x: hidden;
+    }
+    .header-cap h1{
+        width: 75%;
+        margin: auto ;
+    }
+    .about-left-top img{
+        width: 106px;
+        height: 106px;
+    }
+    .card{
+        width: 14rem !important;
+        margin-left: 1rem !important;
+        border-radius: 0px !important;
+    }
+    .portfolio-h{
+        font-size: 1.188rem;
+    }
+    .portfolio-card
+{
+    position: relative;
+    right: 15px;
+
+}
+.gx-3 {
+    --bs-gutter-x: 4.5rem !important;
+  }
+  #slides ,#contact ,.last-bg{
+      position: relative;
+      left: 5px;
+  }
+  .blog-card{
+    position: relative;
+    right: 15px;
+  }
+  .contact-icon-txt h5{
+      padding-left: 1rem !important;
+  }
+  .ico{
+      position: relative;
+top: 30px;
+padding-right: 1rem !important;
+  }
+  .ico-txt h5{
+position: relative;
+left: 7%;
+}
+}
